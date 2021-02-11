@@ -681,13 +681,12 @@ form#commant_form div.field textarea.custom_field {
 .time_table ul li {
     font-size: 21px;
     color: #000;
-    float: left;
 }
 
 .time_table {
     background: rgba(255,255,255,.85);
     margin-top: 110px;
-    min-height: 560px;
+    min-height: 400px;
     padding: 30px;
 }
 
@@ -731,7 +730,7 @@ form#commant_form div.field textarea.custom_field {
 .time_table {
     background: rgba(255,255,255,.85);
     margin-top: 110px;
-    min-height: 560px;
+    min-height: 400px;
     padding: 70px 200px;
 }
 
@@ -741,11 +740,11 @@ form#commant_form div.field textarea.custom_field {
 
 .time_table ul li {
     float: left;
-    width: 50%;
-    font-size: 30px;
+    width: 100%;
+    font-size: 22px;
     font-weight: 300;
     color: #000;
-    line-height: 60px;
+
 }
 
 .theme_color_text {
