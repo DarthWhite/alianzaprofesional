@@ -2,6 +2,11 @@
     File Name: style.css
 -------------------------------------------------------------------*/
 
+/*Personalizados*/
+.bold{
+    font-weight: bold;
+}
+
 /*-------------------------------------------------------------------
     1.import file
 -------------------------------------------------------------------*/
@@ -110,7 +115,7 @@ p {
 }
 
 p {
-    margin-bottom: 30px;
+    /*margin-bottom: 30px;*/
     font-size: 17px;
     line-height: normal;
     color: #444;
@@ -118,12 +123,12 @@ p {
 }
 
 p.large {
-    margin-bottom: 30px;
+    /*margin-bottom: 30px;*/
     font-size: 17px;
     line-height: 28px;
     color: #252626;
     font-weight: 300;
-    margin-top: 5px;
+    /*margin-top: 5px;*/
 }
 
 ol,
